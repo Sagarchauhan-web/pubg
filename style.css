@@ -244,7 +244,7 @@
 
   /*/////////////// sliding cards ////////////// */
   .slider__section {
-    height: 95vh;
+    height: 80vh;
     width: 100vw;
     overflow: hidden;
     background: linear-gradient(
